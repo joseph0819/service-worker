@@ -17,9 +17,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 ```bash
 git clone https://github.com/joseph0819/service-worker
 ```
-1. Navigate to the project directory:
+2. Navigate to the project directory:
    ```cd service-worker-project```
-2. Open the index.html file in your preferred web browser.
+3. Open the index.html file in your preferred web browser.
 
 ## Features
 Offline Support: The service worker caches essential resources, enabling the application to function offline by serving cached content.
